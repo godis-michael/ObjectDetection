@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>VOC2012</folder>
+<filename>lucky_strike_red-5.jpg</filename>
+
+<source>
+<database>The VOC2012 Database</database>
+</source>
+<size>
+<width>736</width>
+<height>1006</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>lucky_strike_red</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>183</xmin>
+<ymin>411</ymin>
+<xmax>516</xmax>
+<ymax>553</ymax>
+</bndbox>
+</object>
+</annotation>

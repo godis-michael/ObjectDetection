@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>VOC2012</folder>
+<filename>marlboro_red-165.jpg</filename>
+
+<source>
+<database>The VOC2012 Database</database>
+</source>
+<size>
+<width>1233</width>
+<height>600</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>marlboro_red</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>948</xmin>
+<ymin>279</ymin>
+<xmax>1076</xmax>
+<ymax>453</ymax>
+</bndbox>
+</object>
+</annotation>

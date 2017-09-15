@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>VOC2012</folder>
+<filename>marlboro_mentol-78.jpg</filename>
+
+<source>
+<database>The VOC2012 Database</database>
+</source>
+<size>
+<width>799</width>
+<height>600</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>marlboro_mentol</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>169</xmin>
+<ymin>117</ymin>
+<xmax>452</xmax>
+<ymax>569</ymax>
+</bndbox>
+</object>
+</annotation>

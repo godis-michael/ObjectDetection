@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>VOC2012</folder>
+<filename>chesterfield_red-53.jpg</filename>
+
+<source>
+<database>The VOC2012 Database</database>
+</source>
+<size>
+<width>600</width>
+<height>1063</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>chesterfield_red</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>72</xmin>
+<ymin>174</ymin>
+<xmax>563</xmax>
+<ymax>950</ymax>
+</bndbox>
+</object>
+</annotation>

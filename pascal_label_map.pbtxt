@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'chesterfield_blue'
+}
+
+item {
+  id: 2
+  name: 'chesterfield_red'
+}
+
+item {
+  id: 3
+  name: 'lucky_strike_blue'
+}
+
+item {
+  id: 4
+  name: 'lucky_strike_red'
+}
+
+item {
+  id: 5
+  name: 'marlboro_gold'
+}
+
+item {
+  id: 6
+  name: 'marlboro_mentol'
+}
+
+item {
+  id: 7
+  name: 'marlboro_red'
+}
